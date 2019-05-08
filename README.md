@@ -1,1 +1,90 @@
-# woodstore
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome
+/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Woodstore</title>
+</head>
+<body>
+
+	<div class="logo">
+		<img src="slikeLogo/logoveliki.jpg">
+		<div class="infoBar">
+			<ul class="lista1">
+				<li class="lista2">
+					<i class="fa fa-phone" aria-hidden="true">+381 11 373 98 15</i></li>
+				<li class="lista2">
+					<i class="fa fa-envelope" aria-hidden="true">office@woodstore.rs</i></li>
+				<li class="lista2">
+					<i class="fa fa-map-marker" aria-hidden="true">Iviceva 1, Zemun</i></li>
+				<li class="lista2">
+					<i class="fa fa-facebook-square" aria-hidden="true"></i></li>
+			</ul>
+	   </div>
+	</div>
+	
+<div class="meni">
+
+	 <ul class="padajuci">
+
+<li class="list"><a href="woodstore.html">Pocetna</a></li>
+<li class="list"><a href="o_nama.html">O nama</a></li>
+<li class="list"><a href="proizvodjaci.html">Proizvodaci</a>
+	  <ul class="padajuci">
+	  <li class="list"><a href="kastamonu.html"> kastamonu</a></li>
+	  <li class="list"><a href="falco.html"> falco</a></li>
+	  <li class="list"><a href="egeer.html"> egger</a></li>
+	  <li class="list"><a href="kronospan.html"> kronospan</a></li>
+	  </ul>
+	</li>
+<li class="list"><a href="asortiman.html">Asortiman</a>
+	     <ul class="padajuci">
+		 <li class="list"><a href="#"> Plocasti </a></li>
+		 <li class="list"><a href="#"> Kant trake</a></li>
+		 <li class="list"><a href="#"> Okovi</a></li>
+		 <li class="list"><a href="#"> Osb ploce</a> </li>
+		 </ul>
+		</li>
+<li class="list"><a href="karijera.html">Karijera</a></li>
+<li class="list"><a href="galerija.html">Galerija</a></li>
+<li class="list"><a href="kontakt.html">Kontakt</a></li>
+	 
+  </ul>
+</div>
+
+
+
+<ul class="ul1">
+	<li class="li1">
+       <div class="content">
+       	<h1>NAJKVALITETNIJI OKOV </h1>
+    </div>
+</li>
+    <li class="li1">
+       <div class="content">
+       	<h1>NAJKVALITETNIJI MEDIJAPAN</h1>
+    </div>
+</li>
+    <li class="li1">
+       <div class="content">
+       	<h1>SUDOPERE od inoxa i granita</h1>
+    </div>
+</li>
+    <li class="li1">
+       <div class="content">
+       	<h1>OPLEMENJENA IVERICA</h1>
+    </div>
+</li>
+    <li class="li1">
+       <div class="content">
+       	<h1>KUPATILSKI NAMESTAJ</h1>
+    </div>
+</li>
+
+</ul>
+
+</body>
+</html>
